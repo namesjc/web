@@ -1,4 +1,4 @@
-// function changeStyle(){
+function changeStyle(){
 
 //     // var text = document.getElementById("para1").style.color = "blue";
 //     // var text = document.getElementById("para1").style.backgroundColor = "red"
@@ -14,35 +14,41 @@
 //      //    paragraph[i].style.color = "red";
 //      // }
 
-//      // var paragraph = document.getElementsByClassName("para");
-//      // var changeText = paragraph[0].innerHTML = "NEW TEXT 1";
-//      // var changeText = paragraph[1].innerHTML = "NEW TEXT 2";
+     // var paragraph = document.getElementsByClassName("para");
+     // var changeText = paragraph[0].innerHTML = "NEW TEXT 1";
+     // var changeText = paragraph[1].innerHTML = "NEW TEXT 2";
 
-//      // var paragraph = document.getElementsByClassName("para");
-//      // var firstParaText = paragraph[0].innerHTML;
-//      // var secondParaText = paragraph[1].innerHTML;
-//      // var addThem = paragraph[2].innerHTML = firstParaText + secondParaText;
-//      // var firstParaText = paragraph[0].innerHTML = " ";
-//      // var secondParaText = paragraph[1].innerHTML = " ";
 
+     // var confirmation = confirm("These changes are final");
+     // if(confirmation == true) {
+     //    var paragraph = document.getElementsByClassName("para");
+     //    var firstParaText = paragraph[0].innerHTML;
+     //    var secondParaText = paragraph[1].innerHTML;
+     //    var addThem = paragraph[2].innerHTML = firstParaText + secondParaText;
+     //    var firstParaText = paragraph[0].innerHTML = " ";
+     //    var secondParaText = paragraph[1].innerHTML = " ";
+     //    document.getElementById("test").style.visibility = "hidden"
+
+    window.location="https://www.baidu.com";
+     }
 //      document.getElementById("image").src="tree.jpg"
+}
+
+
+
+// function changeBackground() {
+//     var text = document.getElementById("para").style.backgroundColor = "red"
 // }
 
+// function backToNormal() {
+//     var text = document.getElementById("para").style.backgroundColor = ""
+// }
 
+// function newPicture() {
+//     document.getElementById("image").src = "tree.jpg"
+// }
 
-function changeBackground() {
-    var text = document.getElementById("para").style.backgroundColor = "red"
-}
-
-function backToNormal() {
-    var text = document.getElementById("para").style.backgroundColor = ""
-}
-
-function newPicture() {
-    document.getElementById("image").src = "tree.jpg"
-}
-
-function oldPicture() {
-    document.getElementById("image").src = "badmood.jpg"
-}
+// function oldPicture() {
+//     document.getElementById("image").src = "badmood.jpg"
+// }
 
