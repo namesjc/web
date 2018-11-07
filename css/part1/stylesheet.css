@@ -1,0 +1,115 @@
+body {
+    color: red;
+    font-family: Verdana, Arial, Geneva, Arial Black;
+    font-weight: normal;
+    /*background-color: lime;*/
+    /*background-color: rgb(230,30,230);*/
+    background-color: #ffcf79;
+    font-size: 25px;
+    /*background-image: url(badmood.jpg);*/
+   /* border-color: aquamarine;
+    border-width: 4px;
+    border-style: solid;*/
+}
+
+h1 {
+    color: red;
+    text-decoration: underline;
+    /*text-decoration: line-through;*/
+    /*text-decoration: underline overline;*/
+    font-size: 150%;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+h3 {
+    color: green;
+    text-decoration: underline;
+}
+
+
+#para1homepage {
+    color: blue;
+}
+
+/* p.para2 {
+    color: green;
+}*/
+
+p.paragraph {
+    font-size: 15px;
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding:  20px 20px 20px 20px;
+    border: black 2px solid;
+    /*font-style: italic;*/
+    /*font-style: oblique;*/
+    background-image: url(cloud.jpg);
+    border-radius: 10px;
+    /*border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;*/
+    border-bottom-style: dotted;
+}
+
+#para4homepage {
+    color: black;
+    font-size: 15px;
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding: 20px;
+    /*padding-left: 40px;*/
+    border: black 2px solid;
+    border-color: #296a24;
+    border-width: thick;
+    border-style: ridge;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+img.image {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#divmain {
+    color: black;
+}
+
+#divbass {
+    color: black;
+}
+
+.divcontent {
+    color: black;
+}
+
+.highlight{
+    background-color: #ffff00;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: #8C8c9D;
+}
+
+a:hover {
+    color: yellow;
+}
